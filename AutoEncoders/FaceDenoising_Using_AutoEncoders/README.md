@@ -18,23 +18,6 @@ This project focuses on developing a Convolutional Neural Network (CNN) Autoenco
   ```
 - **Extract**: After downloading, extract the dataset into the `data/` directory.
 
-## 🛠️ Installation
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/denoisingface.git
-    cd denoisingface
-    ```
-
-2. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the training script**:
-    ```bash
-    python train.py
-    ```
 
 ## 📊 Model Architecture
 
