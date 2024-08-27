@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/580938022485044162/38b037351cf04402a447c7932ed1c180/artifacts
+end_time: 1724764896166
+entry_point_name: ''
+experiment_id: '580938022485044162'
+lifecycle_stage: active
+run_id: 38b037351cf04402a447c7932ed1c180
+run_name: aged-turtle-555
+run_uuid: 38b037351cf04402a447c7932ed1c180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724764892702
+status: 3
+tags: []
+user_id: zeus

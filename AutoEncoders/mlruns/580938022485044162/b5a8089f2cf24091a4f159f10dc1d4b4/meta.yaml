@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/580938022485044162/b5a8089f2cf24091a4f159f10dc1d4b4/artifacts
+deleted_time: 1724756019183
+end_time: 1724755976116
+entry_point_name: ''
+experiment_id: '580938022485044162'
+lifecycle_stage: deleted
+run_id: b5a8089f2cf24091a4f159f10dc1d4b4
+run_name: bedecked-seal-601
+run_uuid: b5a8089f2cf24091a4f159f10dc1d4b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724755976095
+status: 4
+tags: []
+user_id: zeus

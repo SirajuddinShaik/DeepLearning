@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/580938022485044162/a509e7b2afe4487fbc453afc8aa8ef46/artifacts
+deleted_time: 1724756019183
+end_time: 1724753718782
+entry_point_name: ''
+experiment_id: '580938022485044162'
+lifecycle_stage: deleted
+run_id: a509e7b2afe4487fbc453afc8aa8ef46
+run_name: enchanting-fish-887
+run_uuid: a509e7b2afe4487fbc453afc8aa8ef46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724753718768
+status: 4
+tags: []
+user_id: zeus

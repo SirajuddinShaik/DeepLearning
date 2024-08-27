@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/580938022485044162/d2834a35f0d24b52b8533994b5eb3986/artifacts
+deleted_time: 1724756019185
+end_time: 1724753754753
+entry_point_name: ''
+experiment_id: '580938022485044162'
+lifecycle_stage: deleted
+run_id: d2834a35f0d24b52b8533994b5eb3986
+run_name: gentle-panda-787
+run_uuid: d2834a35f0d24b52b8533994b5eb3986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724753754739
+status: 4
+tags: []
+user_id: zeus

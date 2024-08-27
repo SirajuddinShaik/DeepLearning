@@ -1,0 +1,20 @@
+artifact_path: Denoising Auto Encoder
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.10.10
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.17.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 2.15.1
+model_size_bytes: 3000110
+model_uuid: 26418416b215492dac35d282b024596d
+run_id: 9a4e19f1f1574b2692cbe8210f4cdd49
+utc_time_created: '2024-08-27 10:53:05.057057'
