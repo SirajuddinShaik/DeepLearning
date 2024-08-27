@@ -32,11 +32,11 @@ The autoencoder consists of:
 The following images show examples of noisy input, the denoised output, and the original clean image:
 
 
-|------------------------|
+| ------------------------ |
 | ![Noisy Image](images/AE_1.png) |
-|------------------------|
+| ------------------------ |
 | ![Denoised Image](images/AE_4.png) | 
-|------------------------|
+| ------------------------ |
 | ![Original Image](images/AE_2.png) |
 
 ## 🧠 How It Works
