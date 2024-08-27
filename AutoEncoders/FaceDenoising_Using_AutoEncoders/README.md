@@ -62,39 +62,15 @@ The following images show examples of noisy input, the denoised output, and the 
 2. **Train the Model**: The autoencoder is trained to minimize the difference between the original clean image and the denoised output.
 3. **Evaluate**: The model is evaluated based on how well it reconstructs the clean image from the noisy input.
 
-## 📁 Project Structure
 
-```
-denoisingface/
-│
-├── data/                   # Dataset folder (not included in the repo)
-├── images/                 # Folder containing example images
-├── models/                 # Folder to save trained models
-├── notebooks/              # Jupyter notebooks for experimentation
-├── src/                    # Source code
-│   ├── data_preprocessing.py
-│   ├── model.py
-│   ├── train.py
-│   └── evaluate.py
-├── README.md               # Project documentation
-└── requirements.txt        # Required Python packages
-```
 
 ## 🤝 Contributions
 
 Feel free to fork this repository, create a feature branch, and submit a pull request! Contributions are always welcome. 
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ✨ Acknowledgments
 
 - The CelebA dataset authors.
 - The open-source community for providing useful tools and resources.
 ```
-
-### Notes:
-- The project structure is organized, and you can adjust it according to your actual file organization.
-- Replace the image paths with the actual paths where your images are stored.
-- You can add more emojis 🌟🎉 where you see fit to make the README more engaging.
